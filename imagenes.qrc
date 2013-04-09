@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenes/Ojos/Ojos1.png</file>
+        <file>imagenes/Ojos/Ojos2.png</file>
+        <file>imagenes/Ojos/Ojos3.png</file>
+        <file>imagenes/Ojos/Ojos4.png</file>
+        <file>imagenes/Ojos/Ojos5.png</file>
+        <file>imagenes/Ojos/Ojos6.png</file>
+        <file>imagenes/Ojos/Ojos7.png</file>
+        <file>imagenes/Ojos/Ojos8.png</file>
+        <file>imagenes/Ojos/Ojos9.png</file>
+        <file>imagenes/Ojos/Ojos10.png</file>
+        <file>imagenes/Nariz/Nariz1.png</file>
+        <file>imagenes/Nariz/Nariz2.png</file>
+        <file>imagenes/Nariz/Nariz3.png</file>
+        <file>imagenes/Nariz/Nariz4.png</file>
+        <file>imagenes/Nariz/Nariz5.png</file>
+        <file>imagenes/Nariz/Nariz6.png</file>
+        <file>imagenes/Nariz/Nariz7.png</file>
+        <file>imagenes/Nariz/Nariz8.png</file>
+        <file>imagenes/Nariz/Nariz9.png</file>
+        <file>imagenes/Nariz/Nariz10.png</file>
+        <file>imagenes/Boca/Boca1.png</file>
+        <file>imagenes/Boca/Boca2.png</file>
+        <file>imagenes/Boca/Boca3.png</file>
+        <file>imagenes/Boca/Boca4.png</file>
+        <file>imagenes/Boca/Boca5.png</file>
+        <file>imagenes/Boca/Boca6.png</file>
+        <file>imagenes/Boca/Boca7.png</file>
+        <file>imagenes/Boca/Boca8.png</file>
+        <file>imagenes/Boca/Boca9.png</file>
+        <file>imagenes/Boca/Boca10.png</file>
+        <file>imagenes/Cabello/Cabello2.png</file>
+        <file>imagenes/Cabello/Cabello3.png</file>
+        <file>imagenes/Cabello/Cabello4.png</file>
+        <file>imagenes/Cabello/Cabello5.png</file>
+        <file>imagenes/Cabello/Cabello6.png</file>
+        <file>imagenes/Cabello/Cabello7.png</file>
+        <file>imagenes/Cabello/Cabello8.png</file>
+        <file>imagenes/Cabello/Cabello9.png</file>
+        <file>imagenes/Cabello/Cabello10.png</file>
+        <file>imagenes/Cabello/Cabello1.png</file>
+    </qresource>
+</RCC>
